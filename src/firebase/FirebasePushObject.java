@@ -15,7 +15,7 @@ public class FirebasePushObject {
     public static void main(String[] args) {
         Item item = new Item();
         item.setId(1L);
-        item.setName("celu_2");
+        item.setName("iphone");
         item.setPrice(100.156);
 
         // You can use List<Item> also.
